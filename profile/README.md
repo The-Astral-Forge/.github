@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/3bJY0kK.png" width="180" alt="Logo Astral Forge">
+<img src="IMG_0080.JPG" width="180" alt="Logo Astral Forge">
 
 # 🌠 A S T R A L · F O R G E
 
