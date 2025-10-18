@@ -4,7 +4,7 @@
 
 <img src="IMG_0080.JPG" width="180" alt="Logo Astral Forge">
 
-# 🌠 A S T R A L · F O R G E
+#  A S T R A L · F O R G E
 
 ### "Donde el código se une con la creación — forjando inteligencia, arte y propósito."
 
