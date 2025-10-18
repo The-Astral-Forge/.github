@@ -11,7 +11,6 @@
 ![Seguidores](https://img.shields.io/github/followers/Astral-Force?style=for-the-badge&logo=github&color=red)
 ![Estrellas](https://img.shields.io/github/stars/Astral-Force?style=for-the-badge&logo=github&color=ff5555)
 ![Estado](https://img.shields.io/badge/estado-activo-green?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/licencia-Creative%20Commons-lightgrey?style=for-the-badge)
 
 </div>
 
