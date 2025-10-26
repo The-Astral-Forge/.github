@@ -1,10 +1,10 @@
-<!-- ✨ Astral Forge - README de la organización ✨ -->
+<!-- ✨ The Astral Forge - README de la organización ✨ -->
 
 <div align="center">
 
-<img src="IMG_0080.JPG" width="180" alt="Logo Astral Forge">
+<img src="IMG_0080.JPG" width="180" alt="Logo The Astral Forge">
 
-#  A S T R A L · F O R G E
+#  T H E · A S T R A L · F O R G E
 
 ### "Donde el código se une con la creación — forjando inteligencia, arte y propósito."
 
@@ -18,7 +18,7 @@
 
 ## 🧩 Sobre Nosotros
 
-**Astral Forge** es una tripulación creativa-tecnológica de nueva generación — un colectivo multidisciplinario que une **ciencia de datos, inteligencia artificial, diseño, psicología y filosofía** para construir sistemas que *tengan alma*.
+**The Astral Forge** es una tripulación creativa-tecnológica de nueva generación — un colectivo multidisciplinario que une **ciencia de datos, inteligencia artificial, diseño, psicología y filosofía** para construir sistemas que *tengan alma*.
 
 Somos exploradores del universo digital:  
 forjamos algoritmos, diseñamos experiencias inmersivas y estudiamos cómo la tecnología puede expandir el potencial humano.
@@ -133,5 +133,5 @@ Si compartes nuestra visión de unir creatividad e inteligencia — bienvenido a
 ---
 
 <div align="center">
-  <sub>© 2025 Astral Forge. Creado por soñadores, ingenieros y artistas — con un toque de polvo estelar ✨</sub>
+  <sub>© 2025 The Astral Forge. Creado por soñadores, ingenieros y artistas — con un toque de polvo estelar ✨</sub>
 </div>
