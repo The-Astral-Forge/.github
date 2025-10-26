@@ -1,4 +1,4 @@
-<!-- ✨ Astral Force - README de la organización ✨ -->
+<!-- ✨ Astral Forge - README de la organización ✨ -->
 
 <div align="center">
 
@@ -133,5 +133,5 @@ Si compartes nuestra visión de unir creatividad e inteligencia — bienvenido a
 ---
 
 <div align="center">
-  <sub>© 2025 Astral Force. Creado por soñadores, ingenieros y artistas — con un toque de polvo estelar ✨</sub>
+  <sub>© 2025 Astral Forge. Creado por soñadores, ingenieros y artistas — con un toque de polvo estelar ✨</sub>
 </div>
