@@ -8,8 +8,8 @@
 
 ### "Donde el código se une con la creación — forjando inteligencia, arte y propósito."
 
-![Seguidores](https://img.shields.io/github/followers/Astral-Force?style=for-the-badge&logo=github&color=red)
-![Estrellas](https://img.shields.io/github/stars/Astral-Force?style=for-the-badge&logo=github&color=ff5555)
+![Seguidores](https://img.shields.io/github/followers/The-Astral-Forge?style=for-the-badge&logo=github&color=red)
+![Estrellas](https://img.shields.io/github/stars/The-Astral-Forge?style=for-the-badge&logo=github&color=ff5555)
 ![Estado](https://img.shields.io/badge/estado-activo-green?style=for-the-badge)
 
 </div>
