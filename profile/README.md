@@ -4,7 +4,7 @@
 
 <img src="IMG_0080.JPG" width="180" alt="Logo Astral Forge">
 
-#  A S T R A L · F O R C E
+#  A S T R A L · F O R G E
 
 ### "Donde el código se une con la creación — forjando inteligencia, arte y propósito."
 
@@ -18,7 +18,7 @@
 
 ## 🧩 Sobre Nosotros
 
-**Astral Force** es una tripulación creativa-tecnológica de nueva generación — un colectivo multidisciplinario que une **ciencia de datos, inteligencia artificial, diseño, psicología y filosofía** para construir sistemas que *tengan alma*.
+**Astral Forge** es una tripulación creativa-tecnológica de nueva generación — un colectivo multidisciplinario que une **ciencia de datos, inteligencia artificial, diseño, psicología y filosofía** para construir sistemas que *tengan alma*.
 
 Somos exploradores del universo digital:  
 forjamos algoritmos, diseñamos experiencias inmersivas y estudiamos cómo la tecnología puede expandir el potencial humano.
